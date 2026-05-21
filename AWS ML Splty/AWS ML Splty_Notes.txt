@@ -1,0 +1,117 @@
+
+Start  20-Sep-2025 
+
+
+how Sagemaker integrates with other systems 
+how to secure 
+
+how SM built-in algorithms work ?
+
+Additional learnings (50% of the exam)
+How to deep neural networks work
+What algorithms to choose for specific problems 
+How to tune the algorithms to achieve the best results  ?
+
+How to tune the models ?
+	Preventing overfitting 
+	Scaling the model to large dataset
+	Regularization 
+	Hyperparameter Tuning 
+	
+Exam QUestions COmposition 
+ 1. Data Engineering Questions - 20%
+	- Storage 
+		* S3 DataLakes 
+		* DynamoDB
+	- Transformation
+		* Glue 
+		* Glue ETL
+	- Streaming 
+		* Kinesis 
+		* Kinesis Video Streams 
+	- Workflows 
+		* Data Pipelines 
+		* AWS Batch 
+		* Step Functions 
+ 2. Exploratory Data Analysis - 24%
+	- Data Science 
+		* scikit_learn
+		* Data distributions 
+		* Trends and Seasonality 
+	- Analysis Tools 
+		* Athena
+		* Quicksight
+		* Elastic MapReduce (EMR)
+		* Apache Spark 
+	- Feature Engineering 
+		* Imputation Methods
+		* Outliers
+		* Log Transforms 
+		* One-hot encoding 
+		* Scaling and Normalization
+		
+ 3. Modeling - 36%
+	- Frame Business problems as machine learning problems 
+	- select the appropriate model(s) for a given machine learning problem 
+	- train machine learning models. 
+	- perform hyperparameter optimization 
+	- Evaluate Machine learning models. 
+	
+	- Deep Learning 
+		* Deep Learning crash course (MLP's, CNN's, RNN's)
+		* Tuning neural networks and regularization techniques 
+	- SageMaker
+		* Architecture 
+		* Built-in Algorithms 
+			- Linear Learner, XGBoost, DeepAR, BlazingText, Obect2Vec, Object Detection, Image Classification, Semantic Segmentation, Random Cut Forest, Neural Topic Model, LDA, KNN, K-Means, Factorization Machines, IP Insights, Reinforcement Learning 
+		* Automatic Model Tuning 
+		* Sagemaker / Spark Integration 
+		
+	- High-level AI Services 
+		* Comprehend
+		* Translate
+		* Polly
+		* Transcribe 
+		* Lex
+		* Rekognition 
+		* Personalize / Forecast / Textract
+		* DeepLens
+	- Evaluate and Tuning 
+		* Confusion Matrix
+		* RMSE 
+		* precision and Recall 
+		* F1 Score
+		* ROC / AUC 
+		
+ 4. Machine Learning IMplementations and Operations (MLOps)
+	- Build machine learing solutions for the performance, availability, scalability, resiliency, and fault tolerance. 
+	- REcommend and implement the appropriate machine learning services and features for a given problem
+	- Apply basic AWS security practices to machine learning solutions
+	- Deploy and operationalise machine learning solutions 
+	
+	- Sagemaker Operations
+		* Using containers
+		* Security with Dagemaker
+		* Choosing instance types 
+		* A/B Testing 
+		* Tensorflow Integration 
+		* Sagemaker Neo and GreenGrass
+		* Sagemaker Pipes 
+		* Elastic Inference
+		* Inference Pipelines 
+		
+	
+	
+	
+Trading 150m 			2.0
+Coding 	60				1.0
+DSA 	90				1.5
+ML Splty 180			3.0	
+Gen AI  150				2.0
+System Design 60 		1.0
+ML Design 60 			1.0
+Interview prep 90		1.0
+Job Applications - 		2.0
+German 					1.0	
+
+						
